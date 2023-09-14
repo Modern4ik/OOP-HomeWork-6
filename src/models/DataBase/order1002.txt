@@ -1,0 +1,6 @@
+"clientName":"Igor",
+"product":"Car",
+"qnt":1,
+"price":500000,
+"status":"Открыт"
+
